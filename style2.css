@@ -1,0 +1,13 @@
+@charset "UTF-8";
+.logo {
+    margin-left: 30px;
+}
+.navbar-nav {
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+    font-size: 25px;
+}
+.container .row .col-md-12 {
+    font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+    font-style: normal;
+    font-size: 33px;
+}
